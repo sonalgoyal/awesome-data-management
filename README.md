@@ -20,3 +20,4 @@ A curated list of awesome open source tools and commercial products to catalog, 
 * [Milvus](https://github.com/milvus-io/milvus/): An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
 * [OpenMetadata](https://open-metadata.org/): A Single place to discover, collaborate and get your data right.
 * [Spark](https://spark.apache.org/): Unified analytics engine for large-scale data processing.
+* [Zingg] (https://github.com/zinggAI/zingg): Open source master data management and entity resolution
